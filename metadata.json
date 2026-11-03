@@ -1,0 +1,6 @@
+{
+  "name": "아스팔트 F1: 그랑프리 레이서",
+  "description": "아스팔트 스타일의 니트로 부스트와 드리프트, 전설적인 F1 서킷(몬차, 스파, 모나코, 스즈카, 실버스톤)을 질주하는 3D 고속 아케이드 레이싱 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
